@@ -1,1 +1,1 @@
-Listing: Name, Contents, Date
+Listing: Name, Contents, Date, Category
